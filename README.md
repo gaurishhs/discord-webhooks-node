@@ -1,11 +1,11 @@
 # Discord Webhooks
-
 - [Installation](#installation)
 - [Usage](#usage)
     - [Basic Usage](#basic-usage)
     - [Send files](#send-files)
     - [Send embeds](#send-embeds)
     - [Config](#config)
+- [API](https://gaurishhs.github.io/discord-webhooks-node/)
 - [License](#license)
 
 ## Installation
@@ -113,6 +113,5 @@ webhook.setUsername('Test User');
 webhook.setAvatar('https://cdn.discordapp.com/embed/avatars/0.png');
 
 ```
-
 # License
 - This project is MIT Licensed. Read the license file for more information.

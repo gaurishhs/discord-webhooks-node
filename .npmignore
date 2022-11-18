@@ -2,3 +2,6 @@ src
 tsconfig.json
 yarn.lock
 docs
+typedoc.json
+.prettierrc
+.github
