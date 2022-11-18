@@ -16,6 +16,7 @@
     "@types/node": "^18.11.9",
     "discord-api-types": "^0.37.18",
     "tsup": "^6.5.0",
+    "typedoc": "^0.23.21",
     "typescript": "^4.9.3"
   },
   "exports": {
@@ -29,7 +30,8 @@
   "repository": "gaurishhs/discord-webhooks-node",
   "scripts": {
     "build": "tsup src/index.ts --format esm,cjs --dts",
-    "lint": "npx prettier --write src"
+    "lint": "npx prettier --write src",
+    "docs": "npx typedoc"
   },
   "dependencies": {
     "form-data": "^4.0.0",
