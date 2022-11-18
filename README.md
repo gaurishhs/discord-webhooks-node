@@ -1,4 +1,8 @@
 # Discord Webhooks
+
+[![Downloads](https://img.shields.io/npm/dw/discord-webhooks-node)](https://img.shields.io/npm/dw/discord-webhooks-node)
+[![License](https://img.shields.io/github/license/gaurishhs/discord-webhooks-node)](https://img.shields.io/github/license/gaurishhs/discord-webhooks-node)
+
 - [Installation](#installation)
 - [Usage](#usage)
     - [Basic Usage](#basic-usage)
