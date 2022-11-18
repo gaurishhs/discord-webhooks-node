@@ -1,6 +1,6 @@
 {
   "name": "discord-webhooks-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "index.cjs",
   "module": "index.js",
@@ -26,7 +26,7 @@
       "types": "./dist/index.d.ts"
     }
   },
-  "repository": "gaurish/discord-webhooks-node",
+  "repository": "gaurishhs/discord-webhooks-node",
   "scripts": {
     "build": "tsup src/index.ts --format esm,cjs --dts",
     "lint": "npx prettier --write src"

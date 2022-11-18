@@ -3,8 +3,8 @@ import {
   APIEmbed,
   APIMessageComponent,
 } from 'discord-api-types/v10';
-import {Button} from './builders/Button';
-import {Embed} from './builders/Embed';
+import { Button } from './builders/Button';
+import { Embed } from './builders/Embed';
 
 export class MessageBuilder {
   data: {
